@@ -12,3 +12,6 @@ function test1(){
 function test3(){
     console.log('Hello World!');
 }
+function test4(){
+    console.log('Hello World!');
+}
