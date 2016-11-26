@@ -8,6 +8,6 @@ function test(){
 function test1(){
     console.log('Hello World!');
 }
-function test1(){
+function test2(){
     console.log('Hello World!');
 }
