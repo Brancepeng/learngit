@@ -15,3 +15,9 @@ function test3(){
 function test4(){
     console.log('Hello World!');
 }
+function test5(){
+  console.log('Hello World!');
+}
+function test6(){
+  console.log('Hello World!');
+}
