@@ -18,6 +18,6 @@ function test4(){
 function test5(){
   console.log('Hello World!');
 }
-function test6(){
+function test61111(){
   console.log('Hello World!');
 }
